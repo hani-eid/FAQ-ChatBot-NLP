@@ -1,1 +1,2 @@
-# FAQ-ChatBot-NLP
+# nlp-faq-chatbot
+NLP Group Project FAQ Chatbot
